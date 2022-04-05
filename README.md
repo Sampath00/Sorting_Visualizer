@@ -11,4 +11,4 @@ work and also get a deep understanding of such sorting
 algorithms.
 
 
-![](image.png)
+![](image.jpeg)
